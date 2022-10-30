@@ -11,3 +11,13 @@ if next == "day2":
   import day2_100days
 elif next == "day3":
   import day3_100days
+elif next == "day4":
+  import day4_100days
+elif next == "day5":
+  import day5_100days
+elif next == "day6":
+  import day6_100days
+elif next == "day7":
+  import day7_100days
+else:
+  print("Invalid choice")
